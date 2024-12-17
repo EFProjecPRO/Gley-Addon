@@ -1,0 +1,17 @@
+{
+  "id": "com.efprojectpro.gleyaddon",
+  "version": "1.0.0",
+  "name": "BalkanFlix",
+  "description": "Addon za filmove i serije",
+  "types": [
+    "movie",
+    "series"
+  ],
+  "resources": [
+    {
+      "type": "movie",
+      "id": "some_movie_id"
+    }
+  ],
+  "main": "index.js"
+}
